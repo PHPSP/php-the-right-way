@@ -19,18 +19,22 @@ _PHP: Do Jeito Certo_ possui banners que você pode usar em seu site. Para mostr
 
 ### Localmente
 
-* Instale opicionalmente [Ruby](https://rvm.io/rvm/install/) com [Jekyll](https://github.com/mojombo/jekyll/) gem para visualizar
+* Instale opcionalmente [Ruby](https://rvm.io/rvm/install/) com [Jekyll](https://github.com/mojombo/jekyll/) gem para visualizar
 
 ### Vagrant
 
 * Instale [Vagrant](http://www.vagrantup.com/) e [VirtualBox](https://www.virtualbox.org/)
 * Execute o comando `vagrant up` no diretório do projeto
-* Quando o provisionamento terminar, [visualize localmente](http://localhost:4000)
+* Quando o provisionamento terminar, execute `vagrant ssh -c 'cd /vagrant && jekyll serve'`
+* E [visualize localmente](http://localhost:4000)
 
 ## Como contribuir
 
 * Fork e edite
-* Visualize suas atualizações (com vagrant, execute `vagrant ssh -c 'cd /vagrant && jekyll build'`)
+* Para criar o build com vagrant, execute `vagrant ssh -c 'cd /vagrant && jekyll build'`
+* Para visualizar as alterações:
+  * Execute `vagrant ssh -c 'cd /vagrant && jekyll serve'`
+  * Acesse [visualize localmente](http://localhost:4000)
 * Envie um pull request para análise
 
 ### Guia de Estilo para o Contribuidor
@@ -61,11 +65,11 @@ Reforçar que nunca se deve alterar o sentido dos textos, nem colocar informaç�
 * [Inglês](http://www.phptherightway.com)
 * [Catalão] (http://ca.phptherightway.com)
 * [Chinês](http://wulijun.github.com/php-the-right-way)
-* [Japanês] (http://ja.phptherightway.com)
+* [Japonês] (http://ja.phptherightway.com)
 * [Coreano] (http://wafe.github.io/php-the-right-way)
 * [Italiano] (http://it.phptherightway.com)
 * [Polonês](http://pl.phptherightway.com)
-* [Português Brasileiro](http://br.phptherightway.com)
+* [Português do Brasil](http://br.phptherightway.com)
 * [Russo] (http://getjump.github.io/ru-php-the-right-way)
 * [Espanhol] (http://es.phptherightway.com)
 * [Ucraniano](http://iflista.github.com/php-the-right-way)
