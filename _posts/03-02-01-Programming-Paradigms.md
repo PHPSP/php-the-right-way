@@ -50,14 +50,14 @@ desenvolvedores alterem o comportamento das classes. Desenvolvedores Ruby costum
 * [Leia sobre Métodos Mágicos][magic-methods]
 * [Leia sobre Reflexão][reflection]
 
-[namespaces]: http://php.net/manual/en/language.namespaces.php
-[overloading]: http://php.net/manual/en/language.oop5.overloading.php
-[oop]: http://www.php.net/manual/en/language.oop5.php
-[anonymous-functions]: http://www.php.net/manual/en/functions.anonymous.php
-[closure-class]: http://php.net/manual/en/class.closure.php
-[callables]: http://php.net/manual/en/language.types.callable.php
-[magic-methods]: http://php.net/manual/en/language.oop5.magic.php
-[reflection]: http://www.php.net/manual/en/intro.reflection.php
+[namespaces]: http://php.net/manual/pt_BR/language.namespaces.php
+[overloading]: http://php.net/manual/pt_BR/language.oop5.overloading.php
+[oop]: http://www.php.net/manual/pt_BR/language.oop5.php
+[anonymous-functions]: http://www.php.net/manual/pt_BR/functions.anonymous.php
+[closure-class]: http://php.net/manual/pt_BR/class.closure.php
+[callables]: http://php.net/manual/pt_BR/language.types.callable.php
+[magic-methods]: http://php.net/manual/pt_BR/language.oop5.magic.php
+[reflection]: http://www.php.net/manual/pt_BR/intro.reflection.php
 [traits]: http://www.php.net/traits
-[call-user-func-array]: http://php.net/manual/en/function.call-user-func-array.php
+[call-user-func-array]: http://php.net/manual/pt_BR/function.call-user-func-array.php
 [closures-rfc]: https://wiki.php.net/rfc/closures

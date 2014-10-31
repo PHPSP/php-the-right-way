@@ -17,7 +17,7 @@ muitas requisições concorrentes. Ele é importante especialmente em servidores
 sobrando.
 
 * [Leia mais sobre o nginx](http://nginx.org)
-* [Leia mais sobre o PHP-FPM](http://php.net/manual/en/install.fpm.php)
+* [Leia mais sobre o PHP-FPM](http://php.net/manual/pt_BR/install.fpm.php)
 * [Leia mais sobre como configurar de forma segura o nginx e o PHP-FPM](https://nealpoole.com/blog/2011/04/setting-up-php-fastcgi-and-nginx-dont-trust-the-tutorials-check-your-configuration/)
 
 ### Apache e PHP

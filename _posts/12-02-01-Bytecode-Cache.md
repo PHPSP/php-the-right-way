@@ -18,7 +18,7 @@ No PHP 5.5 o OPcache foi incluído como um cache de bytecode nativo. Ele também
 
 Caches de bytecode populares são:
 
-* [APC](http://php.net/manual/en/book.apc.php)  (PHP 5.4 e anteriores)
+* [APC](http://php.net/manual/pt_BR/book.apc.php)  (PHP 5.4 e anteriores)
 * [XCache](http://xcache.lighttpd.net/)
 * [Zend Optimizer+](http://www.zend.com/products/server/) (parte do pacote Zend Server)
 * [WinCache](http://www.iis.net/download/wincacheforphp) (extensão para o MS Windows Server)

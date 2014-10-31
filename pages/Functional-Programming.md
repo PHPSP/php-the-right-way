@@ -84,6 +84,6 @@ a função anônima for compilada.
 * [Mais detalhes em Closures RFC][closures-rfc]
 * [Leia sobre invocar dinamicamente funções com `call_user_func_array`][call-user-func-array]
 
-[anonymous-functions]: http://www.php.net/manual/en/functions.anonymous.php
-[call-user-func-array]: http://php.net/manual/en/function.call-user-func-array.php
+[anonymous-functions]: http://www.php.net/manual/pt_BR/functions.anonymous.php
+[call-user-func-array]: http://php.net/manual/pt_BR/function.call-user-func-array.php
 [closures-rfc]: https://wiki.php.net/rfc/closures

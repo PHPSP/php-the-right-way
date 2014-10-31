@@ -33,8 +33,8 @@ if (strpos('testing', 'test') !== false) {    // true, já que uma comparação 
 }
 {% endhighlight %}
 
-* [Operadores de Comparação](http://php.net/manual/en/language.operators.comparison.php)
-* [Tabela de Comparação](http://php.net/manual/en/types.comparisons.php)
+* [Operadores de Comparação](http://php.net/manual/pt_BR/language.operators.comparison.php)
+* [Tabela de Comparação](http://php.net/manual/pt_BR/types.comparisons.php)
 
 ## Estrutura de Controle
 
@@ -67,7 +67,7 @@ function test($a)
 }
 {% endhighlight %}
 
-* [Estrutura Condicionais](http://php.net/manual/en/control-structures.if.php)
+* [Estrutura Condicionais](http://php.net/manual/pt_BR/control-structures.if.php)
 
 ### Estruturas de Decisão
 
@@ -101,7 +101,7 @@ function test($a)
 }
 {% endhighlight %}
 
-* [Estruturas de Decisão](http://php.net/manual/en/control-structures.switch.php)
+* [Estruturas de Decisão](http://php.net/manual/pt_BR/control-structures.switch.php)
 * [PHP Switch](http://phpswitch.com/)
 
 ## Namespace Global
@@ -126,8 +126,8 @@ function array()
 }
 {% endhighlight %}
 
-* [Espaço Global](http://php.net/manual/en/language.namespaces.global.php)
-* [Regras Globais](http://php.net/manual/en/userlandnaming.rules.php)
+* [Espaço Global](http://php.net/manual/pt_BR/language.namespaces.global.php)
+* [Regras Globais](http://php.net/manual/pt_BR/userlandnaming.rules.php)
 
 ## Strings
 
@@ -151,7 +151,7 @@ $a = 'Multi-line example'      // operador de concatenação (.)
     . 'of what to do';
 {% endhighlight %}
 
-* [Operadores de Strings](http://php.net/manual/en/language.operators.string.php)
+* [Operadores de Strings](http://php.net/manual/pt_BR/language.operators.string.php)
 
 ### Tipos de Strings
 
@@ -177,7 +177,7 @@ echo 'Essa é minha string, veja como ela é bonita.';    // sem necessidade de 
  */
 {% endhighlight %}
 
-* [Aspas Simples](http://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.single)
+* [Aspas Simples](http://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.syntax.single)
 
 #### Aspas Duplas
 
@@ -222,7 +222,7 @@ $juice = array('maça', 'laranja', 'ameixa');
 echo "Eu bebi suco feito de {$juice[1]}s";   // $juice[1] será interpretado
 {% endhighlight %}
 
-* [Aspas Duplas](http://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.double)
+* [Aspas Duplas](http://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.syntax.double)
 
 #### Sintaxe Nowdoc
 
@@ -248,7 +248,7 @@ EOD;                        // fechando 'EOD' precisa estar na sua própria linh
  */
 {% endhighlight %}
 
-* [Sintaxe Nowdoc](http://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.nowdoc)
+* [Sintaxe Nowdoc](http://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.syntax.nowdoc)
 
 #### Sintaxe Heredoc
 
@@ -276,7 +276,7 @@ EOD;                        // closing 'EOD' must be on it's own line, and to th
  */
 {% endhighlight %}
 
-* [Sintaxe Heredoc](http://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.heredoc)
+* [Sintaxe Heredoc](http://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.syntax.heredoc)
 
 ## Operadores Ternários
 
@@ -308,7 +308,7 @@ $a = 5;
 return ($a == 5) ? 'yay' : 'nope';    // esse exemplo irá retornar 'yay'
 {% endhighlight %}
 
-* [Operadores Ternários](http://php.net/manual/en/language.operators.comparison.php)
+* [Operadores Ternários](http://php.net/manual/pt_BR/language.operators.comparison.php)
 
 ## Declaração de Variáveis
 

@@ -58,10 +58,10 @@ de email, um número de telefone ou uma idade quando for processar o envio de um
 
 [Veja sobre os Filtros de Validação][3]
 
-[1]: http://www.php.net/manual/en/book.filter.php
-[2]: http://www.php.net/manual/en/filter.filters.sanitize.php
-[3]: http://www.php.net/manual/en/filter.filters.validate.php
-[4]: http://php.net/manual/en/function.filter-var.php
-[5]: http://www.php.net/manual/en/function.filter-input.php
-[6]: http://php.net/manual/en/security.filesystem.nullbytes.php
+[1]: http://www.php.net/manual/pt_BR/book.filter.php
+[2]: http://www.php.net/manual/pt_BR/filter.filters.sanitize.php
+[3]: http://www.php.net/manual/pt_BR/filter.filters.validate.php
+[4]: http://php.net/manual/pt_BR/function.filter-var.php
+[5]: http://www.php.net/manual/pt_BR/function.filter-input.php
+[6]: http://php.net/manual/pt_BR/security.filesystem.nullbytes.php
 [html-purifier]: http://htmlpurifier.org/

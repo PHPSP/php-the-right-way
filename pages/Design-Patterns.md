@@ -198,7 +198,7 @@ desenvolvedores possam facilmente adicionar novos tipos de saída sem que isso a
 
 Você pode ver como cada classe de saída concreta implementa a OutputInterface - isso serve a dois propósitos,
 primeiramente isso prevê um simples contrato que precisa ser obedecido por cada implementação concreta. Segundo, através
-da implementação de uma interface comum você verá na próxima seção que você pode utilizar [Indução de Tipo](http://php.net/manual/en/language.oop5.typehinting.php)
+da implementação de uma interface comum você verá na próxima seção que você pode utilizar [Indução de Tipo](http://php.net/manual/pt_BR/language.oop5.typehinting.php)
 para garantir que  o cliente que está utilizando esse comportamento é do tipo correto, nesse caso 'OutputInterface'.
 
 O próximo bloco de código demonstra como uma classe cliente relizando uma chamada deve usar um desses algorítimos e
