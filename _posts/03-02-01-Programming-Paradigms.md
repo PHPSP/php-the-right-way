@@ -55,9 +55,9 @@ desenvolvedores alterem o comportamento das classes. Desenvolvedores Ruby costum
 [oop]: http://www.php.net/manual/pt_BR/language.oop5.php
 [anonymous-functions]: http://www.php.net/manual/pt_BR/functions.anonymous.php
 [closure-class]: http://php.net/manual/pt_BR/class.closure.php
-[callables]: http://php.net/manual/pt_BR/language.types.callable.php
+[callables]: http://php.net/manual/en/language.types.callable.php
 [magic-methods]: http://php.net/manual/pt_BR/language.oop5.magic.php
 [reflection]: http://www.php.net/manual/pt_BR/intro.reflection.php
-[traits]: http://www.php.net/traits
+[traits]: http://br1.php.net/traits
 [call-user-func-array]: http://php.net/manual/pt_BR/function.call-user-func-array.php
 [closures-rfc]: https://wiki.php.net/rfc/closures
