@@ -13,4 +13,4 @@ PHP 5.4+). Para iniciar o servidor, execute o seguinte comando no seu terminal d
 
 * [Saiba mais sobre o servidor web embutido, pela linha de comando][cli-server]
 
-[cli-server]: http://www.php.net/manual/en/features.commandline.webserver.php
+[cli-server]: http://www.php.net/manual/pt_BR/features.commandline.webserver.php

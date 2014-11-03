@@ -16,4 +16,4 @@ aplicação não pode dizer de forma efetiva de onde o dado está vindo.
 Por exemplo: `$_GET['foo']` poderia ficar disponível via `$foo`, o que poderia sobrescrever variáveis que não tiverem
 sido declaradas.  Se você estiver usando PHP < 5.4.0 __garanta__ que `register_globals` esteja __desligado__.
 
-* [Register_globals no manual do PHP](http://www.php.net/manual/en/security.globals.php)
+* [Register_globals no manual do PHP](http://www.php.net/manual/pt_BR/security.globals.php)

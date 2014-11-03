@@ -24,5 +24,5 @@ padrão para arquivos, classes e namespaces, permitindo código plug-and-play.
 * [Leia sobre os Namespaces][namespaces]
 * [Leia sobre a PSR-0][psr0]
 
-[namespaces]: http://php.net/manual/en/language.namespaces.php
+[namespaces]: http://php.net/manual/pt_BR/language.namespaces.php
 [psr0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md

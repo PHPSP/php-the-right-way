@@ -45,6 +45,6 @@ Para esconder os erros no seu ambiente de <strong>produção</strong>, configure
 Com essas configurações em produção, os erros continuarão sendo registrados nos logs de erros do servidor web, mas
 eles não serão mostrados para o usuário. Para mais informações sobre essas configurações, veja o manual do PHP:
 
-* [Error_reporting](http://www.php.net/manual/en/errorfunc.configuration.php#ini.error-reporting)
-* [Display_errors](http://www.php.net/manual/en/errorfunc.configuration.php#ini.display-errors)
-* [Log_errors](http://www.php.net/manual/en/errorfunc.configuration.php#ini.log-errors)
+* [Error_reporting](http://www.php.net/manual/pt_BR/errorfunc.configuration.php#ini.error-reporting)
+* [Display_errors](http://www.php.net/manual/pt_BR/errorfunc.configuration.php#ini.display-errors)
+* [Log_errors](http://www.php.net/manual/pt_BR/errorfunc.configuration.php#ini.log-errors)

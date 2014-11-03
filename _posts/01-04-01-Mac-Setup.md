@@ -18,7 +18,7 @@ Outra opção é [compilar você mesmo][mac-compile]. Nesse caso, certifique-se 
 
 Para um pacote LAMP completo com GUI, tente o [MAMP][mamp-downloads] ou [XAMPP][xampp].
 
-[mac-package-managers]: http://www.php.net/manual/en/install.macosx.packages.php
+[mac-package-managers]: http://www.php.net/manual/pt_BR/install.macosx.packages.php
 [mac-compile]: http://www.php.net/manual/en/install.macosx.compile.php
 [xcode-gcc-substitution]: https://github.com/kennethreitz/osx-gcc-installer
 [apple-developer]: https://developer.apple.com/downloads

@@ -56,8 +56,8 @@ como objetivo trazer o cache de objetos do APC para o PHP 5.5, já que o PHP ago
 Aprenda mais sobre sistemas populares de cache de objetos:
 
 * [APCu](https://github.com/krakjoe/apcu)
-* [Funções APC](http://php.net/manual/en/ref.apc.php)
+* [Funções APC](http://php.net/manual/pt_BR/ref.apc.php)
 * [Memcached](http://memcached.org/)
 * [Redis](http://redis.io/)
 * [XCache APIs](http://xcache.lighttpd.net/wiki/XcacheApi)
-* [Funções do WinCache](http://www.php.net/manual/en/ref.wincache.php)
+* [Funções do WinCache](http://www.php.net/manual/pt_BR/ref.wincache.php)

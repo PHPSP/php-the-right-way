@@ -23,7 +23,7 @@ substituir o uso do mysql pelo mysqli ou pela PDO na sua aplicação dentro de s
 assim você não terá que correr lá na frente. _Se você estiver começando do zero então não utilize de forma nenhuma a
 extensão mysql: use a [extensão MySQLi][mysqli], ou use a PDO._
 
-* [PHP: Choosing an API for MySQL](http://php.net/manual/en/mysqlinfo.api.choosing.php)
+* [PHP: Choosing an API for MySQL](http://php.net/manual/pt_BR/mysqlinfo.api.choosing.php)
 
 ## PDO
 
@@ -88,11 +88,11 @@ qualquer aplicação que você quiser:
 * [ZF2 Db][4]
 * [ZF1 Db][3]
 
-[1]: http://www.php.net/manual/en/book.pdo.php
+[1]: http://www.php.net/manual/pt_BR/book.pdo.php
 [2]: http://www.doctrine-project.org/projects/dbal.html
 [3]: http://framework.zend.com/manual/en/zend.db.html
 [4]: http://packages.zendframework.com/docs/latest/manual/en/index.html#zend-db
-[5]: http://php.net/manual/en/pdo.connections.php
+[5]: http://php.net/manual/pt_BR/pdo.connections.php
 [6]: https://github.com/auraphp/Aura.Sql
 
 [mysql]: http://uk.php.net/mysql
