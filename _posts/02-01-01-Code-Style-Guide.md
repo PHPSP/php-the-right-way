@@ -32,7 +32,7 @@ Você pode usar o [PHP_CodeSniffer][phpcs] para checar seu código contra qualqu
 para editores de texto como o [Sublime Text 2][st-cs] para fazer a verificação em tempo real.
 
 Use o [PHP Coding Standards Fixer][phpcsfixer] do Fabien Potencier para automaticamente modificar seu código para que
-ele seja compatível com os padrões, evitando corrigir cada problema na mão.
+ele seja compatível com os padrões, evitando corrigir cada problema na mão. Outra opção é [php.tools][phptools], popularizado pelo plugin do Sublime Text [sublime-phpfmt][sublime-phpfmt]. Embora mais novo, ele faz grandes melhorias de desempenho, o que torna as correções em tempo real no editor mais fluídas.
 
 O Inglês é a linguagem preferida para todos os nomes simbólicos e para a infra-estrutura do código. Comentários devem
 ser escritos em qualquer linguagem que possa ser facilmente lida por todos os atuais e futuros desenvolvedores que
@@ -49,3 +49,5 @@ possam trabalhar nessa base de código.
 [phpcs]: http://pear.php.net/package/PHP_CodeSniffer/
 [st-cs]: https://github.com/benmatselby/sublime-phpcs
 [phpcsfixer]: http://cs.sensiolabs.org/
+[phptools]: https://github.com/dericofilho/php.tools
+[sublime-phpfmt]: https://github.com/dericofilho/sublime-phpfmt
