@@ -56,9 +56,6 @@ _PHP: Do Jeito Certo_ possui banners que você pode usar em seu site. Para mostr
 * [Turco](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraniano](http://iflista.github.com/php-the-right-way)
 
-Se você estiver interessado em traduzir o PHP Do Jeito Certo, fork esse repositório no GitHub e publique sua versão localizada na sua própria página do GitHub. Nos iremos referenciar a sua tradução a partir da documentação principal
-
-
 ## Traduções
 
 Se você tem interesse em traduzir _PHP: The Right Way_, faça o fork do repo no GitHub e publique seu fork para sua
