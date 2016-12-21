@@ -17,7 +17,7 @@ realmente precisar de um framework existem três tipos disponíveis:
 * Full-Stack Frameworks
 * Component Frameworks
 
-Os micro-frameworks são essencialmente invólucros para rotear uma requisição HTTP para um callback, ou um controller,
+Os micro-frameworks são essencialmente um wrapper para rotear uma requisição HTTP para um callback, ou um controller,
 ou um método etc., da forma mais rápida possível, e algumas vezes possuem algumas bibliotecas para auxiliar no
 desenvolvimento, como por exemplo pacotes básicos para bancos de dados. Eles são proeminentemente usados para construir 
 serviços HTTP remotos.
