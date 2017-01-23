@@ -6,7 +6,7 @@ anchor: componentes
 
 ## Componentes {#componentes_title}
 
-Como mencionado acima "Componentes" são uma outra abordagem comum para a o objetivo comum de criação, distribuição
+Como mencionado acima "Componentes" são uma outra abordagem comum para o objetivo comum de criação, distribuição
 e implementação de código compartilhado. Existem vários repositórios de componentes, os dois principais são:
 
 * [Packagist](/#composer_and_packagist)
@@ -16,7 +16,7 @@ Ambos repositórios possuem ferramentas de linha de comando para ajudar a instal
 explicados com mais detalhes na seção [Gerenciamento de Dependência]
 
 Há também componentes de frameworks e componentes de fornecedores que não oferecem nenhum framework. Estes projetos 
-fornecem outra fonte de pacotes que idealmente tem pouco ou nenhum dependências de outros pacotes, ou estruturas 
+fornecem outra fonte de pacotes que idealmente tem pouca ou nenhuma dependência de outros pacotes, ou estruturas 
 específicas.
 
 Por exemplo, você pode usar o [FuelPHP Validation package] sem precisar usar o framework
