@@ -4,7 +4,7 @@ isChild: true
 anchor:  i18n_l10n
 ---
 
-## Internacionalização (i18n) and Localização (l10n) {#i18n_l10n_title}
+## Internacionalização (i18n) e Localização (l10n) {#i18n_l10n_title}
 
 _Aviso para os recém-chegados: i18n e l10n são numeronyms, palavra inglesa que define um tipo de abreviação em que usa-se números 
 para abreviar palavras, no nosso caso, internacionalização se torna i18n e localização, l10n._
@@ -395,7 +395,7 @@ Após incluir essas novas regras no seu arquivo `.po`, um novo escaneamento irá
 
 ### Referências
 
-* [Wikipedia: i18n and l10n](https://pt.wikipedia.org/wiki/Internacionalização_(informática))
+* [Wikipedia: i18n e l10n](https://pt.wikipedia.org/wiki/Internacionalização_(informática))
 * [Wikipedia: Gettext](https://pt.wikipedia.org/wiki/Gettext)
 * [LingoHub: Tutorial de internacionalização PHP com gettext][lingohub]
 * [Manual do PHP: Gettext](http://php.net/manual/pt_BR/book.gettext.php)
