@@ -12,7 +12,7 @@ para abreviar palavras, no nosso caso, internacionalização se torna i18n e loc
 Primeiro, precisamos definir esses dois conceitos similares e outros relacionados:
 
 
-- **Internacionalização** é quando você organiza seu código de tal forma que ele possa ser adaptado para diferentes línguas e regiões
+- **Internacionalização** é quando você organiza seu código de tal forma que ele possa ser adaptado para diferentes idiomas e regiões
 sem refatorações. Isso normalmente é feito apenas uma vez - preferencialmente, no começo do projeto, se não você provavelmente irá
 precisar realizar grandes mudanças no código-fonte!
 - **Localização** ocorre quando você adapta a interface (principalmente) traduzindo seu conteúdo, baseado no trabalho i18n feito
