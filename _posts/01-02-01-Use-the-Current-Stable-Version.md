@@ -1,12 +1,12 @@
 ---
-title: Use a versão estável atual (7.1)
+title: Use a versão estável atual (7.2)
 isChild: true
 anchor: use_a_versao_estavel_atual
 ---
 
-## Use a versão estável atual (7.1) {#use_a_versao_estavel_atual_title}
+## Use a versão estável atual (7.2) {#use_a_versao_estavel_atual_title}
 
-Se você está começando com o PHP, certifique-se de começar com a versão estável mais recente [PHP 7.1][php-release]. O PHP 7.1 é muito novo, e adicionou [novas funcionalidades][php-news] incríveis às antigas versões 5.x. O motor tem sido amplamente reescrito e o PHP é agora ainda mais rápido que as versões antigas.
+Se você está começando com o PHP, certifique-se de começar com a versão estável mais recente [PHP 7.2][php-release]. O PHP 7.2 é muito novo, e adicionou [novas funcionalidades][php-news] incríveis às antigas versões 5.x. O motor tem sido amplamente reescrito e o PHP é agora ainda mais rápido que as versões antigas.
 
 O mais comum atualmente, é encontrar o PHP 5.x sendo usado e a versão 5.x mais recente é a 5.6. Não é uma opção ruim, mas 
 você deve tentar migrar para a última versão rapidamente. PHP 5.6 [não receberá atualizações de segurança após 2018][php-security] Atualizar é bem simples, não existem muitas 
