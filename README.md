@@ -26,7 +26,7 @@ _PHP: Do Jeito Certo_ possui banners que você pode usar em seu site. Para mostr
 ## Guia de Estilo para o Contribuidor
 
 1. Use a ortografia do Português do Brasil neste repositório.
-2. Use quatro (4) espaços para indentar o texto; não use TAB.
+2. Use quatro (4) espaços para identar o texto; não use TAB.
 3. Limite o texto em 120 caracteres.
 4. Os exemplos de código devem seguir a [PSR-1](http://www.php-fig.org/psr/psr-1/) ou superior.
 
@@ -55,7 +55,6 @@ _PHP: Do Jeito Certo_ possui banners que você pode usar em seu site. Para mostr
 * [Tailandês](https://apzentral.github.io/php-the-right-way/)
 * [Turco](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraniano](http://iflista.github.com/php-the-right-way)
-
 
 ## Traduções
 
