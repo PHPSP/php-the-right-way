@@ -251,7 +251,7 @@ requisições (como para higienização de entradas).
 
 ## Model-View-Controller
 
-O padrão model-view-controller (MVC) e os demais padrões relacionados como HMVC and MVVM permitem que você separe o
+O padrão model-view-controller (MVC) e os demais padrões relacionados como HMVC e MVVM permitem que você separe o
 código em diferentes objetos lógicos que servem para tarefas bastante específicas. Models (Modelos) servem como uma
 camada de acesso aos dados onde esses dados são requisitados e retornados em formatos nos quais possam ser usados
 no decorrer de sua aplicação. Controllers (Controladores) tratam as requisições, processam os dados retornados dos
