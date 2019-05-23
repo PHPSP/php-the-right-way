@@ -24,7 +24,7 @@ anchor: recursos
 
 ## Mentoring
 
-* [phpmentoring.org](http://phpmentoring.org/) - Mentoring formal e `pessoa-para-pessoa` na comunidade PHP.
+* [php-mentoring.org](https://php-mentoring.org/) - Mentoria formal e `pessoa-para-pessoa` na comunidade PHP.
 
 ## Fornecedores de PaaS PHP
 
