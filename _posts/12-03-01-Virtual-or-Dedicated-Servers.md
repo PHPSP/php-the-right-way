@@ -11,7 +11,7 @@ servidores virtuais ou dedicados te dão controle completo do ambiente de produ�
 
 ### nginx e PHP-FPM
 
-O PHP, por meio do seu Gerenciador de Processos FastCGI (FPM), funciona muito bem junto com o [nginx](http://nginx.or),
+O PHP, por meio do seu Gerenciador de Processos FastCGI (FPM), funciona muito bem junto com o [nginx](https://nginx.org),
 que é um servidor web leve e de alta performance. Ele usa menos memória do que o Apache e pode lidar melhor como
 muitas requisições concorrentes. Ele é importante especialmente em servidores virtuais que não tem muita memória
 sobrando.
@@ -35,11 +35,11 @@ profundamente nos aspectos de administração do servidor. Observe que, se você
 MPM.
 
 Alternativamente, se você quiser extrair mais performance e estabilidade do seu Apache então você poderia se
-beneficiar do mesmo sistema FPM que o nginx e executar o [worker MPM](http://httpd.apache.org/docs/2.4/mod/worker.htm)
+beneficiar do mesmo sistema FPM que o nginx e executar o [worker MPM](http://httpd.apache.org/docs/2.4/mod/worker.html)
 ou o [event MPM](http://httpd.apache.org/docs/2.4/mod/event.html) com o mod_fastcgi ou com o mod_fcgi. Essa
 configuração será significativamente mais eficiente em relação a memória e muito mais rápida, mas gera mais trabalho.
 
 * [Leia mais sobre o Apache](http://httpd.apache.org/)
 * [Leia mais sobre os Multi-Processing Modules](http://httpd.apache.org/docs/2.4/mod/mpm_common.html)
-* [Leia mais sobre o mod_fastcgi](http://www.fastcgi.com/mod_fastcgi/docs/mod_fastcgi.html)
+* [Leia mais sobre o mod_fastcgi](https://blogs.oracle.com/opal/php-fpm-fastcgi-process-manager-with-apache-2)
 * [Leia mais sobre o mod_fcgid](http://httpd.apache.org/mod_fcgid/)

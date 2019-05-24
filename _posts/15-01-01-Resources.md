@@ -24,20 +24,23 @@ anchor: recursos
 
 ## Mentoring
 
-* [phpmentoring.org](http://phpmentoring.org/) - Mentoring formal e `pessoa-para-pessoa` na comunidade PHP.
+* [php-mentoring.org](https://php-mentoring.org/) - Mentoria formal e `pessoa-para-pessoa` na comunidade PHP.
 
 ## Fornecedores de PaaS PHP
 
-* [PagodaBox](https://pagodabox.com/)
-* [AppFog](https://appfog.com/)
-* [Heroku](https://heroku.com)
-* [fortrabbit](http://fortrabbit.com/)
-* [Engine Yard Cloud](https://www.engineyard.com/products/cloud)
-* [Red Hat OpenShift Platform](http://www.redhat.com/products/cloud-computing/openshift/)
-* [dotCloud](http://docs.dotcloud.com/services/php/)
-* [AWS Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/)
-* [cloudControl](https://www.cloudcontrol.com/)
-* [Windows Azure](http://www.windowsazure.com/)
-* [Zend Developer Cloud](http://www.phpcloud.com/develop)
-* [Google App Engine](https://developers.google.com/appengine/docs/php/gettingstarted/)
-* [Jelastic](http://jelastic.com/)
+* [AppFog](https://www.ctl.io/appfog/)
+* [AWS Elastic Beanstalk](https://aws.amazon.com/pt/elasticbeanstalk/)
+* [Cloudways](https://www.cloudways.com/br/)
+* [Engine Yard Cloud](https://www.engineyard.com/features)
+* [fortrabbit](https://fortrabbit.com/)
+* [Google App Engine](https://cloud.google.com/appengine/docs/php/)
+* [Heroku](https://devcenter.heroku.com/categories/php-support)
+* [IBM Cloud](https://cloud.ibm.com/docs/runtimes/php?topic=PHP-getting_started#getting_started)
+* [Jelastic](https://jelastic.com/)
+* [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+* [Nanobox](https://nanobox.io/)
+* [Pivotal Web Services](https://run.pivotal.io/)
+* [Platform.sh](https://platform.sh/)
+* [Red Hat OpenShift](https://www.openshift.com/)
+
+Para verificar quais versões estão disponíveis nestes provedores de PaaS, vá para [Versões PHP](http://phpversions.info/paas-hosting/).
