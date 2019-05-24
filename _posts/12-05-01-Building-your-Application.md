@@ -35,13 +35,10 @@ pode controlar os processos de empacotamento, implementação e testes através 
 baseado em [Apache Ant](http://ant.apache.org/)) fornece um rico conjunto de tarefas geralmente necessárias para 
 instalar ou atualizar uma aplicação web e pode ser estendido com tarefas adicionais personalizadas, escritas em PHP.
 
-[Capistrano](https://github.com/capistrano/capistrano/wiki) é um sistema para *programadores intermediarios ou
+[Capistrano](https://capistranorb.com/) é um sistema para *programadores intermediarios ou
 avançados* que executa comando de forma estruturada e repetitiva em uma ou mais maquinas. Ele é pré-configurado para
 implementar aplicações Ruby on Rails, entretanto pessoas estão **implementando com sucesso sistemas em PHP** com ele.
 Ter sucesso com uso de Capistrano depende de um conhecimento de trabalho com Ruby e Rails.
-
-O artigo de Dave Gardner [PHP Deployment com Capistrano](http://www.davegardner.me.uk/blog/2012/02/13/php-deployment-with-capistrano/)
-é um bom ponto de partida para desenvolvedores PHP interessando em Capistrano.
 
 [Chef](http://www.opscode.com/chef/) é mais que um framework de implementação, é um framework de integração bastante
 poderoso escrito em Ruby que não consegue apenas implementar sua aplicação mas também construir seu ambiente de servidor
@@ -51,7 +48,7 @@ Conteúdo sobre Chef para Desenvolvedores PHP:
 
 * [Serie em 3 partes sobre implementação de uma aplicação LAMP com Chef, Vagrant, e EC2](http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/)
 * [Chef Cookbook sobre instalação e configuração de PHP 5.3 e do sistema de gerenciamento de pacotes PEAR](https://github.com/opscode-cookbooks/php)
-* [Chef - série de video tutoriais por Opscode, os criadores do chef](https://www.youtube.com/playlist?list=PLrmstJpucjzWKt1eWLv88ZFY4R1jW8amR)
+* [Chef - série de video tutoriais por Opscode, os criadores do chef](https://www.youtube.com/playlist?list=PL11cZfNdwNyPnZA9D1MbVqldGuOWqbumZ)
 
 Leitura Adicional:
 
