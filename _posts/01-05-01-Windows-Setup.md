@@ -10,7 +10,7 @@ Você pode fazer o download dos binários no site [windows.php.net/download][php
 
 Para aprender e desenvolver localmente, você pode utilizar o servidor web embutido do PHP 5.4+, de forma que você não
 precisa se preocupar em configurá-lo. Se você prefere um "pacote completo" que inclui um servidor web e MySQL, então
-ferramentas como [Web Platform Installer][wpi], [XAMPP][xampp], [EasyPHP][easyphp], [OpenServer][openserver] and [WAMP][wamp] irão ajudá-lo a montar rapidamente um ambiente de desenvolvimento em Windows. Dito isso, estas ferramentas serão um pouco diferentes das 
+ferramentas como [Web Platform Installer][wpi], [XAMPP][xampp], [EasyPHP][easyphp], [OpenServer][openserver] e [WAMP][wamp] irão ajudá-lo a montar rapidamente um ambiente de desenvolvimento em Windows. Dito isso, estas ferramentas serão um pouco diferentes das 
 ferramentas em produção, portanto tenha cuidado quanto às diferenças de ambiente caso esteja trabalhando
 em Windows e publicando em Linux. 
 

@@ -60,7 +60,7 @@ Nesse caso, certifique-se de ter instalado o [Xcode][xcode-gcc-substitution] ou 
 ### Instaladores _All-in-One_
 
 As soluções listadas acima lidam apenas com o PHP e não fornecem coisas como [Apache][apache], [Nginx][nginx] ou um servidor SQL. As 
-soluções _All-in-one_ como [MAMP][mamp-downloads] and [XAMPP][xampp] vão instalar estes outros programas para você e 
+soluções _All-in-one_ como [MAMP][mamp-downloads] e [XAMPP][xampp] vão instalar estes outros programas para você e 
 amarrá-los todos juntos, mas a facilidade de configuração vem com um contra-ponto de flexibilidade.
 
 [Homebrew]: https://brew.sh/
