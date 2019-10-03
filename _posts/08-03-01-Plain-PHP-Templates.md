@@ -9,7 +9,7 @@ anchor: plain_php_templates
 Templates Simples em PHP são templates que usam código nativo do PHP. Eles são uma escolha natural já que o PHP é na 
 realidade um linguagem de template por si só. Isso significa simplesmente que você pode combinar código PHP dentro de 
 outro código, como HTML. Isso é benéfico para os desenvolvedores de PHP pois não há uma nova sintaxe para aprender, 
-eles sabem as funções disponíveis e seus editores de código PHP já tem syntax highlighting and auto-completion 
+eles sabem as funções disponíveis e seus editores de código PHP já tem syntax highlighting e auto-completion
 embutidos. Além disso, estes templates tendem a ser muito mais rápido já que não é necessária a fase de compilação.
 
 Cada framework moderno PHP emprega algum tipo de sistema de templates, a maioria usam PHP simples por padrão. Fora dos 
