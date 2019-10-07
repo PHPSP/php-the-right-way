@@ -2,16 +2,16 @@
 
 Existe muita informação obsoleta na Web que desnorteia novos programadores PHP,
 espalhando más práticas e códigos inseguros. _PHP: Do Jeito Certo_ é uma referência
-rápida e fácil de ler, introduzindo desenvolvedores às melhores práticas, renomados
-padrões de código e links para tutoriais competentes pela Web.
+rápida de fácil leitura para os padrões de código PHP e links para tutoriais 
+competentes pela Web e o que os contribuidores consideram ser as melhores práticas
+atuais. 
 
-É importante entender que _não existe uma maneira canônica de usar PHP_. Este site introduz novos desenvolvedores PHP 
-às melhores práticas, opções
-disponíveis e boas informações, que por muitas vezes, quando descobertas, já é tarde
-demais. Além disso leva o desenvolvedor a ter conceitos maduros sobre coisas que eram
-feitas durante anos e nunca foram reconsideradas. Esse site não é para dizer quais
-ferramentas você deve utilizar, mas ao invés disso, oferecer sugestões e múltiplas
-opções, e quando possível explicar as diferenças de acordo com casos de uso.
+_Não existe uma forma rígida para usar o PHP_. Este site tem o objetivo de apresentar
+aos novos desenvolvedores PHP alguns tópicos aos quais podem não ser descobertos até
+que seja tarde demais, e pretende dar aos profissionais experientes novas idéias sobre
+tópicos que foram utilizados durante anos e nunca foram reconsiderados. Esse site não
+irá lhe dizer quais ferramentas usar, mas sim oferecer sugestões para várias opções, 
+quando possível explicar as diferenças de acordo com casos de usos.
 
 Este é um documento "vivo", que continuará sendo atualizado com mais informações úteis
 e exemplos, assim que eles estiverem disponíveis.
@@ -38,6 +38,8 @@ _PHP: Do Jeito Certo_ está (ou em breve estará) sendo traduzido em várias lin
 * [Tailandês](https://apzentral.github.io/php-the-right-way/)
 * [Turco](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraniano](http://iflista.github.com/php-the-right-way/)
+* [Japonês](http://ja.phptherightway.com)
+* [Chinês](http://laravel-china.github.io/php-the-right-way/)
 
 ## Como contribuir
 
