@@ -19,3 +19,9 @@ Outros recursos da comunidade inclui o [StackOverflow][php-so].
 [phpc-twitter]: https://twitter.com/phpc
 [php-so]: https://stackoverflow.com/questions/tagged/php
 [php-calendar]: https://secure.php.net/cal.php
+
+Umas das possibilidades de aprendizado também são os eventos de meetup da linguagem. Existe os mais globais como o de grupo de PHP do seu estado/cidade (PHPSP, PHPMG, PHPRJ, etc), ou até de um framework e/ou CMS especifico (Magento, wordpress, etc). 
+Você posde visualizar a listagem dos eventos no link de meetup, [clicando aqui](https://www.meetup.com/pt-BR/topics/php/br/)
+
+Outra posibilidade de canal para comunicação com os grupos de PHP e/ou framworks são os grupos no telegran. A comunidade do PHPRIO, Magento, PHPWomen, etc são bem ativas nesse meio de comunicação. Os eventos são divulgados por lá também.
+Para se cadastrar no telegran, [utilize este link](https://telegram.org/).
