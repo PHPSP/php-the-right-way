@@ -11,10 +11,10 @@ O macOS já vem com o PHP, mas ele é normalmente um pouco atrasado em relação
 ### Instalar PHP via Homebrew
 
 [Homebrew] é um gerenciador de pacotes para o macOS que pode ajudá-lo a instalar facilmente o PHP e várias 
-extensões. O repositório central do Homebrew contém "fórmulas" para PHP 5.6, 7.0, 7.1, 7.2 e 7.3. Instale a última versão com este comando:
+extensões. O repositório central do Homebrew contém "fórmulas" para PHP 5.6, 7.0, 7.1, 7.2, 7.3 e 7.4. Instale a última versão com este comando:
 
 ```
-brew install php@7.3
+brew install php@7.4
 ```
 
 Você pode alternar entre as versões do PHP do Homebrew modificando a variável `PATH`. Alternativamente você pode usar o [brew-php-switcher][brew-php-switcher] para alternar as versões PHP automaticamente.
@@ -28,17 +28,17 @@ operacional OS X.
 O MacPorts suporta binários pré-compilados, portanto, você não precisa recompilar todas as dependências dos arquivos 
 tar de origem, ele agiliza sua vida se você não tiver nenhum pacote instalado no seu sistema.
 
-Neste ponto, você pode instalar `php54`, `php55`, `php56`, `php70`, `php71`, `php72` ou `php73` usando o comando `port install`,
+Neste ponto, você pode instalar `php54`, `php55`, `php56`, `php70`, `php71`, `php72`, `php73` ou `php74` usando o comando `port install`,
  como por exemplo:
  
  ```
     sudo port install php56
-    sudo port install php73
+    sudo port install php74
  ```
 
 E você pode utilizar o comando `select` para trocar a versão ativa do PHP:
 ```
-    sudo port select --set php php73
+    sudo port select --set php php74
 ```
 
 ### Instalar PHP via phpbrew
