@@ -10,7 +10,7 @@ Quando você está construindo sua aplicação web é muito útil utilizar padr�
 seu projeto. Usar "design patterns" (padrões de projeto) é útil pois eles facilitam bastante na hora de gerenciar seu
 código e permite que outros desenvolvedores entendam rapidamente como tudo está se encaixando.
 
-Se você utiliza um framework então a maior parte do código de alto nível e a estrutura do projeto serão baseados no 
+Se você utiliza um framework, então a maior parte do código de alto nível e a estrutura do projeto serão baseados no 
 framework, ou seja, uma grande parte das decisões de padrões de design do código já foram decididas para você. Mas ainda 
 cabe a você escolher os melhores padrões a seguir no código na hora de utilizá-los no framework. Se, por outro lado, 
 você não estiver utilizando uma framework para construir sua aplicação, então você terá que descobrir os padrões que 
