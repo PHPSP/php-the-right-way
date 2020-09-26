@@ -6,7 +6,7 @@ anchor: excecoes
 
 ## Exceções {#excecoes_title}
 
-Exceções são uma parte padrão da maioria das linguagens populares, mas elas sao frequentemente negligenciadas pelos
+Exceções são uma parte padrão da maioria das linguagens populares, mas elas são frequentemente negligenciadas pelos
 programadores de PHP. Linguagens como Ruby usam pesadamente o sistema de Exceções, então sempre que algo de errado
 acontece, como um pedido HTTP que falha, ou uma consulta ao banco de dados gera um erro, ou até mesmo se uma imagem
 não puder ser encontrada, o Ruby (ou suas bibliotecas que estiverem sendo utilizadas) irão disparar uma exceção para
