@@ -10,5 +10,5 @@ Testes automatizados são uma excelente ferramenta para garantir que sua aplica�
 fazendo alterações ou adicionando novas funcionalidades, e não deveriam ser ignorados.
 
 Existem vários tipos diferentes de ferramentas de testes (ou frameworks) disponíveis para PHP, com diferentes
-abordagens: todas elas tentam evitar os testes manuais e a necessidade de equipes grandes de Garantia de Qualidade 
+abordagens: todas elas tentam evitar os testes manuais e a necessidade de equipes grandes de Garantia de Qualidade, 
 Quality Assurance, ou QA) apenas para garantir que alterações recentes não interrompam funcionalidade existentes.
