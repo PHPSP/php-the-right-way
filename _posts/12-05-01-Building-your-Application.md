@@ -36,7 +36,7 @@ baseado em [Apache Ant](http://ant.apache.org/)) fornece um rico conjunto de tar
 instalar ou atualizar uma aplicação web e pode ser estendido com tarefas adicionais personalizadas, escritas em PHP.
 
 [Capistrano](https://github.com/capistrano/capistrano/wiki) é um sistema para *programadores intermediarios ou
-avançados* que executa comando de forma estruturada e repetitiva em uma ou mais maquinas. Ele é pré-configurado para
+avançados* que executa comando de forma estruturada e repetitiva em uma ou mais máquinas. Ele é pré-configurado para
 implementar aplicações Ruby on Rails, entretanto pessoas estão **implementando com sucesso sistemas em PHP** com ele.
 Ter sucesso com uso de Capistrano depende de um conhecimento de trabalho com Ruby e Rails.
 
@@ -45,7 +45,7 @@ O artigo de Dave Gardner [PHP Deployment com Capistrano](http://www.davegardner.
 
 [Chef](http://www.opscode.com/chef/) é mais que um framework de implementação, é um framework de integração bastante
 poderoso escrito em Ruby que não consegue apenas implementar sua aplicação mas também construir seu ambiente de servidor
-completo em maquinas virtuais.
+completo em máquinas virtuais.
 
 Conteúdo sobre Chef para Desenvolvedores PHP:
 
