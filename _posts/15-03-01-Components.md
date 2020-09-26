@@ -6,7 +6,7 @@ anchor: componentes
 
 ## Componentes {#componentes_title}
 
-Como mencionado acima "Componentes" são são uma outra abordagem comum para a o objetivo comum de criação, distribuição
+Como mencionado acima "Componentes" são uma outra abordagem comum para a o objetivo comum de criação, distribuição
 e implementação de código compartilhado. Existem vários repositórios de componentes, os dois principais são:
 
 * [Packagist](/#composer_and_packagist)
