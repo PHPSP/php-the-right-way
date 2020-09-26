@@ -39,7 +39,7 @@ pela linha de comando.
 O Composer mantém o controle de dependências do seu projeto em um arquivo chamado `composer.json`. Você pode
 controlá-lo na mão se preferir ou usar o próprio Composer. O comando `composer require` adiciona uma dependência do
 projeto e se você não tem um arquivo `composer.json`, ele será criado. Aqui está um exemplo que adiciona
-o [Twig] como uma dependência do seu projeto.
+o [Twig] como uma dependência do seu projeto:
 
 {% highlight console %}
 composer require twig/twig:^2.0
@@ -55,7 +55,7 @@ composer install
 {% endhighlight %}
 
 Em seguida, adicione esta linha ao arquivo PHP principal da sua aplicação; isso dirá ao PHP para usar o autoloader do
-Composer para as dependências do seu projeto.
+Composer para as dependências do seu projeto:
 
 {% highlight php %}
 <?php
