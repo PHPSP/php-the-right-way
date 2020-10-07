@@ -33,7 +33,7 @@ para editores de texto como o [Sublime Text 2][st-cs] para fazer a verificação
 Você pode corrigir o estilo do código com uma das duas possíveis ferramentas. Uma é a
 [PHP Coding Standards Fixer][phpcsfixer] do Fabien Potencier que tem uma base de código muito bem testada. É maior
 e mais lenta, mas muito estável e usada por grandes projetos como Magento e Symfony. Outra opção é a [php.tools][phptools],
-que se tornou popular pelo plugin [sublime-phpfmt][sublime-phpfmt] do sublime. Apesar de ser mais novo ela tem grandes
+que se tornou popular pelo plugin [sublime-phpfmt][sublime-phpfmt] do sublime. Apesar de ser mais novo, ela tem grandes
 melhorias no desempenho fazendo com que a correção do estilo de código em tempo real seja mais fluída.
 
 O Inglês é o idioma preferido para todos os nomes simbólicos e para a infra-estrutura do código. Comentários devem
