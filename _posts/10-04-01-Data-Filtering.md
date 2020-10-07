@@ -41,7 +41,7 @@ confidenciais.
 
 A higienização remove (ou "escapa") caracteres ilegais ou inseguros das entradas externas.
 
-Por exemplo, você deveria higienizar entradas externas antes de incluí-las no HTML ou de inseri-las em consultas SQL
+Por exemplo, você deveria higienizar entradas externas antes de incluí-las no HTML ou de inserí-las em consultas SQL
 brutas. Quando você usar parâmetros restritos com a [PDO](#databases), ela já irá higienizar as entradas para você.
 
 Às vezes será obrigatório permitir algumas tags HTML seguras na sua entrada quando estiver incluindo-as em um página
