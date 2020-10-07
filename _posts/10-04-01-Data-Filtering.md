@@ -46,7 +46,7 @@ brutas. Quando você usar parâmetros restritos com a [PDO](#databases), ela já
 
 Às vezes será obrigatório permitir algumas tags HTML seguras na sua entrada quando estiver incluindo-as em um página
 HTML. Isso é bem difícil de fazer e muitas evitam isso utilizando outros formatos mais restritos, como o Markdown ou
-o BBCode, embora bibliotecas para listas brancas/whitelistening, como a [HTML Purifier][html-purifier], existem por
+o BBCode. Embora bibliotecas para listas brancas/whitelistening, como a [HTML Purifier][html-purifier], existem por
 essa razão.
 
 [Veja sobre os Filtros de Higienização][2]
